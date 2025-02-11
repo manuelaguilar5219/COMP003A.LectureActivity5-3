@@ -1,4 +1,8 @@
-﻿namespace COMP003A.LectureActivity5_3
+﻿// Author: Manuel Aguilar
+// Course: COMP003A
+// Faculty: Jonathan Cruz
+// Purpose: Lecture activity 5-3
+namespace COMP003A.LectureActivity5_3
 {
     /// <summary>
     /// Represents a generic shape with an abstract method.
